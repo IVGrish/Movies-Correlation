@@ -22,4 +22,4 @@ This Python project analyzes the correlation between various features of movies 
 + **Regression plot**: Seaborn regression to visualize correlation.
 + **Heatmaps**: Pearson correlation of numeric features and numerized categorical features.<br><br>
 
-**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+**P.S.** This project was built with the help of [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
